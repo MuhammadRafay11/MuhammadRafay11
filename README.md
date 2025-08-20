@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning AI and testing my skill set against the variety of projects.
 
--  👨‍💻 All of my projects are available [@MuhammadRafy11](https://github.com/MuhammadRafay11)
+-  👨‍💻 All of my projects are available [@MuhammadRafay11](https://github.com/MuhammadRafay11)
 
 - 🤝 If I can help you, please do not hesitate to contact me by the following link
 -----

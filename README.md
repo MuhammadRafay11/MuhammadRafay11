@@ -1,11 +1,12 @@
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=MuhammadRafay11&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadRafay11" /> </p>
 
 <h1 align="center">Hi, I'm Muhammad Rafay <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadRafay11&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadRafay11" />
-  <strong style="font-size:20px;">Python Developer</strong>
-</p>
+<h2 align="center">
+  
+  <strong>Python Developer</strong>
+</h2>
 
 
 <h3 align="left"> About Me </h3>

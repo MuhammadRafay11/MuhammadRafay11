@@ -10,23 +10,36 @@
 
 
 <h3 align="left"> About Me </h3>
-<p align=""center> Python Developer with strong experience in building scalable, production‑ready backend systems for intelligent applications. Proven ability
-to design and implement end‑to‑end pipelines involving data ingestion, processing, storage, and API development. Experienced in develop‑
-ing retrieval‑based systems, chatbot platforms, and data‑driven services using modern backend frameworks and machine learning workflows.
-Comfortable working across system design, model integration, and real‑world deployment, with a focus on reliability, performance, and clean
-architecture.</p>
-
-</br>
-<a target="_blank">
-  <img align="right" height="200" width="350" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
+<p align="left"> Machine Learning Engineer with 1+ year of hands-on experience building, deploying, and optimizing ML and AI-driven systems in production. Skilled in end-to-end machine learning workflows including data preprocessing, EDA, feature engineering, supervised and unsupervised learning, model evaluation, and model deployment. Extended experience as an AI Developer building LLM, RAG, and conversational AI platforms. Strong Python engineering foundation with cloud deployment on AWS EC2 and exposure to containerized workflows using Docker.</p>
 </br>
 
-- 👀 I’m interested in applied ML and AI.
 
-- 🌱 I’m currently AI Engineer @Eye4Tech.  
+<h3 align="left">💼 Work Experience</h3>
 
--  👨‍💻 All of my projects are available [@MuhammadRafay11](https://github.com/MuhammadRafay11)
+<table width="100%">
+  <tr>
+    <td><strong>AI Engineer — Eye4Tech (Pvt Ltd)</strong></td>
+    <td align="right"><em>Oct 2025 – Present</em></td>
+  </tr>
+</table>
+
+- Building intelligent contact-center and chatbot solutions end-to-end.
+- Migrated from commercial AI APIs to fine-tuned open-source models, improving quality while reducing operational cost.
+- Developed production chatbots powered by LLMs, RAG, and automated web crawling with multi-language support and human handoff.
+- Built internal tools for real-time agent evaluation and AI-generated responses powered by private knowledge bases.
+- Implemented scalable backend services and automation pipelines for data ingestion, deployment, and continuous monitoring.
+
+<table width="100%">
+  <tr>
+    <td><strong>Machine Learning Engineer — FOSL X</strong></td>
+    <td align="right"><em>Feb 2025 – Sep 2025</em></td>
+  </tr>
+</table>
+
+- Built and deployed time series forecasting pipelines using LSTMs and Transformers across the full ML lifecycle.
+- Developed computer vision models for classification, detection, and segmentation tasks across supervised and unsupervised learning paradigms.
+- Contributed to ML infrastructure including experiment tracking, API-based model serving, and pipeline automation.
+- Applied strong Python engineering practices to bridge model development and scalable production deployment.
 
 </br>  
 
@@ -62,7 +75,6 @@ architecture.</p>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40"/>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRafay11&show_icons=true&locale=en&layout=compact" alt="MuhammadRafay11" /></p>
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
